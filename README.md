@@ -1,15 +1,17 @@
-# Facial-Expression-Recognition-using-CNN
+## 🧠 Facial-Expression-Recognition-using-CNN
 
-![image](https://github.com/user-attachments/assets/817c6539-b174-45ea-950f-5ceab2f36fc5)
+![image](https://github.com/user-attachments/assets/bdf4cc87-3e28-4a03-a9b5-21542d49765b)   ![image](https://github.com/user-attachments/assets/ebb6be8d-cc24-497f-aa9f-a61763cb1c96)
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👀 Overview
+## 👀 Overview
 This project focuses on recognizing micro facial expressions using Convolutional Neural Networks (CNN). Micro-expressions are subtle, involuntary facial expressions that occur briefly and reveal genuine emotions. Detecting them can be crucial in areas like security, psychology, and suspect interrogation. The model is trained and evaluated using two benchmark datasets: CASME II (for micro-expressions) and FER-2013 (for facial expressions).Let's embark on this exciting journey!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✨ Features
+## ✨ Features
 CNN-based architecture for emotion classification
 
 Trained on both macro and micro-expression datasets
@@ -22,7 +24,7 @@ Results visualization included
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🧠 CNN Architecture
+## 🧠 CNN Architecture
 The CNN model consists of:
 
 Input Layer – Preprocessed grayscale facial images
@@ -42,7 +44,7 @@ CNN Architecture Diagram:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 Dataset
+## 📊 Dataset
 1. CASME II
 Focuses on spontaneous micro-expressions
 
@@ -62,7 +64,7 @@ Training Accuracy: 73%
 Dataset Link: https://www.kaggle.com/datasets/msambare/fer2013
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-✅ Results
+## ✅ Results
 Dataset	Training Accuracy
 CASME II	92%
 FER-2013	73%
@@ -73,7 +75,7 @@ FER-2013 provided good generalization for common facial expressions
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-📚 References
+## 📚 References
 
 https://www.kaggle.com/datasets/msambare/fer2013
 https://paperswithcode.com/sota/micro-expression-recognition-on-casme-ii-1
