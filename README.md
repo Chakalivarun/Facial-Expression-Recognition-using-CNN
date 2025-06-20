@@ -64,6 +64,13 @@ Training Accuracy: 73%
 Dataset Link: https://www.kaggle.com/datasets/msambare/fer2013
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+## Workflow Diagram 
+
+![image](https://github.com/user-attachments/assets/5046080e-0166-4725-8409-2ce25dca76a9)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 ## ✅ Results
 Dataset	Training Accuracy
 CASME II	92%
@@ -73,13 +80,25 @@ CASME II showed superior performance due to focused and high-quality micro-expre
 
 FER-2013 provided good generalization for common facial expressions
 
+![image](https://github.com/user-attachments/assets/fba04b81-d310-4c41-8626-63711ed52ec9)
+
+![image](https://github.com/user-attachments/assets/eb3da525-28c4-42eb-ba75-6a28111332f8)
+
+
+![image](https://github.com/user-attachments/assets/a2f7630a-df93-4db0-928b-82a87f6468c4)
+
+![image](https://github.com/user-attachments/assets/7b1b8d65-de94-47f8-9fb0-a97808313106)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📚 References
 
 https://www.kaggle.com/datasets/msambare/fer2013
+
 https://paperswithcode.com/sota/micro-expression-recognition-on-casme-ii-1
+
 https://github.com/yuxinhe/CASME2-Micro-Expression-Database-SVM
+
 https://ieeexplore.ieee.org/abstract/document/10820184
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
