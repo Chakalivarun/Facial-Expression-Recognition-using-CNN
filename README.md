@@ -101,11 +101,3 @@ https://github.com/yuxinhe/CASME2-Micro-Expression-Database-SVM
 https://ieeexplore.ieee.org/abstract/document/10820184
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 👩‍💻 Author
-
-**Muqadas Ejaz**  
-BS Computer Science (AI Specialization)  
-Machine Learning & Computer Vision Enthusiast  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muqadasejaz/)  
-🌐 GitHub: [github.com/muqadasejaz](https://github.com/muqadasejaz)
